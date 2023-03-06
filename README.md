@@ -7,4 +7,4 @@ links to a few recipes.
 For now, it won't look pretty because this is just to brush up 
 on HTML fundies; I will come back to make things pretty with CSS.
 
-
+It's been a week and I just started!
